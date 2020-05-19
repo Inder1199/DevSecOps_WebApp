@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Web App for Developers</a>
+            <a class="navbar-brand" href="#">DevSecOps WebApp Pipeline Showcase</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Infosys Ltd 2020</p>
     </footer>
 </div> <!-- /container -->
 
