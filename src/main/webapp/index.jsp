@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">DevSecOps WebApp Pipeline Showcase</a>
+            <a class="navbar-brand" href="#">DevSecOps WebApp Showcase</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>We are from Infosys EQS Team </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button"> QLTYEQS &raquo;</a></p>
     </div>
 </div>
 
