@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>We are from Infosys EQS Team </p>
+        <p>We are from EQS Team, Infosys </p>
         <p><a class="btn btn-primary btn-lg" role="button"> QLTYEQS &raquo;</a></p>
     </div>
 </div>
